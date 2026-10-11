@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# --------------------------------------------------
+# GEOG 777 - ArcGIS Project
+# --------------------------------------------------
+
+# ArcGIS project files and geodatabases
+aprx/
+*.gdb/
+*.lock
+
+# GIS source data and generated outputs
+data/
+Data/
+outputs/
